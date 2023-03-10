@@ -1,11 +1,8 @@
-touch c/c_is_fun.c
-touch js/main.js
-touch js/index.js
 cat > bash/alx << EOF
 #!/bin/bash 
-echo "ALX"
+echo "ALX School"
 EOF
 cat > bash/school << EOF
 #!/bin/bash 
-echo "School" 
+echo "The school is open!" 
 EOF
