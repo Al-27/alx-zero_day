@@ -1,2 +1,1 @@
-#Disc
-`Random`
+My first readme
