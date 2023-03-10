@@ -1,0 +1,11 @@
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+cat > bash/alx << EOF
+#!/bin/bash 
+echo "ALX"
+EOF
+cat > bash/school << EOF
+#!/bin/bash 
+echo "School" 
+EOF
